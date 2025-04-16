@@ -1,6 +1,7 @@
 # EnergixEnterprise
 Energy Market Resilience Metrics: Analyzing Vulnerabilities and Preparing for Disruptions using Python.
 
+
 ### Business Overview/Problem
 
 **Business Introduction**
@@ -12,6 +13,7 @@ Its energy generation and distribution operations span a wide spectrum, from tra
 
 However, recent disruptions in the energy market have raised concerns about the company's ability to maintain its operations and profitability in the face of unforeseen challenges.
  
+
 
 **Business Problem**
 
@@ -28,6 +30,7 @@ C. Regulatory Changes and Environmental Regulations: Evolving regulations and en
 
 
 D. Aging Infrastructure and Technology Limitations: Aging infrastructure and outdated technology hinder operational efficiency, risk management, and the company's ability to adapt to market dynamics.
+
 
 
 **Rationale for the Project**
@@ -47,7 +50,9 @@ The project is of paramount importance to Energix Enterprise use to the followin
 ✓ Ensuring Compliance: The project is crucial for ensuring compliance with evolving regulatory requirements and minimizing the company's environmental impact.
 
 
+
 **Aim of the Project**
+
 ✓ Resilience Planning: Create a comprehensive resilience plan outlining response procedures for various disruptions, ensuring business continuity.
 
 ✓ Upgrade Technology Infrastructure: Identify technology gaps and implement infrastructure upgrades for improved operational efficiency.
